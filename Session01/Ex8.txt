@@ -1,0 +1,25 @@
+1.Tác nhân chính và chức năng
+
+-Học viên: đăng ký/ghi danh khóa, tham gia bài học (video/quiz), nộp bài, xem điểm, chat/nhận thông báo.
+-Giảng viên: tạo/sửa bài học, giao/đánh giá bài tập, chấm điểm, họp trực tuyến, gửi thông báo.
+-Admin (quản trị): quản lý người dùng, phân quyền, quản lý khóa/giảng viên, xem báo cáo & logs, backup/rollback.
+
+2. Phân loại hệ thống thông tin theo chức năng
+
+-Giao dịch hàng ngày (đăng ký, thanh toán, nộp bài) → TPS
+Ghi nhận và xử lý giao dịch (đăng ký, hóa đơn, nộp bài, cập nhật điểm).
+-Báo cáo quản lý khóa, danh sách học viên → MIS
+Báo cáo định kỳ: số học viên, tỷ lệ hoàn thành, doanh thu theo khóa.
+
+3. Mô hình phát triển phần mềm phù hợp 
+
+-Agile vì
++Sản phẩm cần thay đổi nhanh theo phản hồi học viên/giảng viên.
++Cho phép phát hành sớm (MVP) thu feedback thực tế, ưu tiên features theo giá trị.
++Giảm rủi ro bằng iteration ngắn, test liên tục và cải tiến dựa trên dữ liệu .
+
+4. 3 sơ đồ UML sử dụng
+
+-Use Case Diagram — mô tả tác nhân và chức năng chính.
+-Class Diagram — thiết kế mô hình dữ liệu: User, Course, Lesson, Enrollment, Assignment, Payment, Role.
+-Sequence Diagram — mô tả luồng tương tác quan trọng.

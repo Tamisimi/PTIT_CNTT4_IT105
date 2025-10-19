@@ -1,0 +1,10 @@
+
+Con người: người dùng, tài xế giao hàng, nhà hàng và quản trị viên hệ thống.
+
+Dữ liệu: thông tin món ăn, đơn hàng, người dùng, địa chỉ giao hàng, đánh giá.
+
+Quy trình: quy trình đặt món, thanh toán, xác nhận đơn, giao hàng và phản hồi.
+
+Phần mềm: ứng dụng GrabFood (mobile/web) và hệ thống quản lý đơn hàng.
+
+Phần cứng: máy chủ lưu trữ dữ liệu, điện thoại người dùng, thiết bị của nhà hàng và tài xế.

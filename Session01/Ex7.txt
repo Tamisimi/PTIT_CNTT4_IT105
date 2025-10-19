@@ -1,0 +1,11 @@
+Planning: Xác định mục tiêu dự án, phạm vi chức năng, nguồn lực và tiến độ triển khai.
+
+Requirement Analysis: Thu thập yêu cầu từ người dân và trung tâm, xác định chức năng và ràng buộc hệ thống.
+
+Design: Thiết kế giao diện người dùng, cấu trúc cơ sở dữ liệu và kiến trúc client–server.
+
+Implementation: Phát triển các module đăng ký, xác nhận, quản lý lịch và thông báo tiêm.
+
+Testing: Kiểm thử toàn bộ tính năng, bảo mật, hiệu năng và độ ổn định của hệ thống.
+
+Deployment & Maintenance: Triển khai hệ thống chính thức, theo dõi hoạt động và cập nhật định kỳ.

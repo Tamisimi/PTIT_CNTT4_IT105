@@ -1,0 +1,8 @@
+Dự án A – Phần mềm quản lý điểm cho trường cấp 2 → Waterfall
+→ Yêu cầu rõ ràng, ít thay đổi nên mô hình thác nước phù hợp và dễ quản lý tiến độ.
+
+Dự án B – Ứng dụng mobile đặt lịch khám bệnh → Agile
+→ Cần linh hoạt, dễ thay đổi và cải tiến liên tục theo phản hồi người dùng.
+
+Dự án C – Hệ thống ngân hàng điện tử → Spiral
+→ Dự án phức tạp, yêu cầu bảo mật cao, cần kiểm thử và đánh giá rủi ro ở từng giai đoạn.

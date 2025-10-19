@@ -1,0 +1,23 @@
+1. Tác nhân và chức năng:
+
+-Khách hàng: tạo, theo dõi đơn hàng.
+-Nhân viên giao hàng: cập nhật trạng thái giao hàng.
+-Quản lý: xem báo cáo hiệu suất, khu vực tồn đọng.
+-CEO: xem tổng quan hoạt động và tỉ lệ giao đúng hạn.
+
+2. Phân loại hệ thống:
+
+-TPS: tạo và cập nhật đơn hàng.
+-MIS: báo cáo hiệu suất và tồn đọng.
+-DSS: hỗ trợ quyết định tối ưu vận chuyển.
+-EIS: tổng quan hoạt động cho CEO.
+
+3. Mô hình phát triển:
+→ Mô hình Agile — phù hợp vì cần linh hoạt, cập nhật thường xuyên theo phản hồi thực tế.
+
+4. Sơ đồ UML:
+
+-Use Case: mô tả chức năng của các tác nhân.
+-Class Diagram: thể hiện các lớp như Đơn hàng, Nhân viên, Khách hàng.
+-Sequence Diagram: mô tả thứ tự tương tác khi giao hàng.
+-Activity Diagram: biểu diễn luồng xử lý đơn hàng.

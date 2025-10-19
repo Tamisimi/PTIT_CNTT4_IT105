@@ -1,0 +1,5 @@
+Planning: xác định mục tiêu xây dựng hệ thống điểm danh QR nhằm giảm gian lận, tiết kiệm thời gian, lập kế hoạch nhân sự, ngân sách và tiến độ thực hiện dự án.
+
+Requirement Analysis: thu thập yêu cầu từ giảng viên, sinh viên và phòng đào tạo, xác định các chức năng như tạo buổi học, quét mã QR, điểm danh tự động và thống kê kết quả.
+
+System Design: thiết kế giao diện ứng dụng cho giảng viên và sinh viên, xây dựng mô hình cơ sở dữ liệu, và xác định kiến trúc hệ thống client–server.
