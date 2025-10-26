@@ -1,0 +1,20 @@
+
+Các yếu tố môi trường và tác động:
+
+Người dùng: Bác sĩ, y tá, bệnh nhân, quản lý.
+Tác động: Cần giao diện đơn giản, phù hợp từng nhóm, hỗ trợ đa ngôn ngữ.
+
+Phần cứng: Máy tính, máy chủ, thiết bị y tế.
+Tác động: Hệ thống phải tương thích phần cứng, máy chủ xử lý dữ liệu lớn.
+
+Phần mềm: Phần mềm y tế (EMR), kế toán, app di động.
+Tác động: Cần tích hợp EMR, kế toán, và API cho app di động.
+
+Hệ thống bên ngoài: Cổng thanh toán, bảo hiểm, cơ quan y tế.
+Tác động: Tích hợp thanh toán, xác thực bảo hiểm, báo cáo theo chuẩn y tế.
+
+Quy trình nghiệp vụ: Tiếp nhận, khám, thanh toán, xuất viện.
+Tác động: Tự động hóa quy trình, đảm bảo nhanh, chính xác.
+
+Luật lệ: Luật bảo mật y tế, quy định bảo hiểm.
+Tác động: Mã hóa dữ liệu, tuân thủ báo cáo và bảo vệ thông tin.

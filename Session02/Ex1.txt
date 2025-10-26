@@ -1,0 +1,9 @@
+Người dùng cuối: Những người dùng trực tiếp hệ thống để học hoặc giảng dạy. Họ muốn hệ thống dễ dùng, chạy mượt, hỗ trợ tốt trên nhiều thiết bị.
+
+Sponsor: Người cung cấp ngân sách hoặc định hướng phát triển. Họ quan tâm hệ thống hiệu quả, tiết kiệm chi phí và đạt mục tiêu giáo dục.
+
+Chuyên gia nghiệp vụ: Người tư vấn cách tổ chức nội dung học. Họ muốn nội dung phù hợp, dễ quản lý và hỗ trợ tốt cho việc dạy.
+
+Bộ phận kỹ thuật: Người xây dựng, bảo trì hệ thống. Họ lo hệ thống an toàn, ít lỗi, bảo mật tốt và dễ nâng cấp.
+
+Bên thứ ba: Người cung cấp nội dung hoặc công cụ tích hợp. Họ muốn tích hợp dễ dàng và nội dung được sử dụng hiệu quả.

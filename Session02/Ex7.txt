@@ -1,0 +1,26 @@
+Bảng phân tích Stakeholders:
+
+Stakeholder: Khách hàng 
++Vai trò: Sử dụng hệ thống để đặt hàng, theo dõi đơn, thanh toán.
++Mối quan tâm: Giao hàng nhanh, đúng giờ, giao diện dễ dùng, giá cả hợp lý.
++Mức độ ưu tiên: Critical
+
+Stakeholder: Shipper
++Vai trò: Nhận đơn, giao hàng, cập nhật trạng thái trên hệ thống.
++Mối quan tâm: Hệ thống dễ thao tác, lịch trình giao hàng hợp lý, thu nhập rõ ràng.
++Mức độ ưu tiên: Critical
+
+Stakeholder: Quản lý công ty
++Vai trò: Quyết định chiến lược, giám sát hoạt động hệ thống.
++Mối quan tâm: Hiệu quả vận hành, tối ưu chi phí, tăng trưởng doanh thu.
++Mức độ ưu tiên: Major
+
+Stakeholder: Đội ngũ IT
++Vai trò: Phát triển, bảo trì hệ thống, đảm bảo hoạt động ổn định.
++Mối quan tâm: Hệ thống an toàn, ít lỗi, dễ nâng cấp, bảo mật dữ liệu.
++Mức độ ưu tiên: Major
+
+Stakeholder: Đối tác cửa hàng
++Vai trò: Cung cấp sản phẩm, phối hợp giao hàng qua hệ thống.
++Mối quan tâm: Tích hợp dễ dàng, quản lý đơn hàng hiệu quả, thanh toán minh bạch.
++Mức độ ưu tiên: Minor

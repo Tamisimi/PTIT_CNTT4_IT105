@@ -1,0 +1,32 @@
+Shopee
+Các yếu tố thuộc môi trường hệ thống:
+
+Người dùng:
++Người mua: Tìm kiếm, mua sản phẩm, thanh toán, theo dõi đơn hàng
++Người bán: Đăng sản phẩm, quản lý đơn hàng, xử lý hoàn trả
++Nhân viên hỗ trợ khách hàng: Giải quyết thắc mắc, khiếu nại
+
+Phần cứng:
++Điện thoại thông minh, máy tính bảng, laptop
++Máy chủ lưu trữ dữ liệu, xử lý giao dịch
++Thiết bị thanh toán (POS, máy quét mã QR)
+
+Phần mềm:
++Ứng dụng Shopee trên iOS/Android
++Website Shopee cho trình duyệt
++Phần mềm quản lý kho và logistics
+
+Hệ thống bên ngoài:
++Cổng thanh toán (ShopeePay, thẻ ngân hàng, ví điện tử)
++Đơn vị vận chuyển (Giao Hàng Nhanh, Viettel Post)
++Hệ thống quảng cáo (Google Ads, Facebook Ads)
+
+Quy trình nghiệp vụ:
++Mua hàng: Chọn sản phẩm, thêm giỏ, thanh toán, nhận hàng
++Bán hàng: Đăng sản phẩm, xác nhận đơn, giao hàng
++Hoàn tiền: Xử lý khiếu nại, trả hàng
+
+Luật lệ:
++Luật thương mại điện tử (bảo vệ người tiêu dùng)
++Quy định bảo mật dữ liệu
++Quy định thuế VAT cho giao dịch trực tuyến

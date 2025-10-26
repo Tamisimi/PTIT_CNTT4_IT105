@@ -1,0 +1,15 @@
+Quy trình: Mua hàng online
+
+4 yêu cầu chức năng:
+
+Tìm kiếm sản phẩm: Người dùng nhập từ khóa để tìm sản phẩm theo tên, danh mục, hoặc thương hiệu.
+Thêm vào giỏ hàng: Người dùng chọn sản phẩm, số lượng, và thêm vào giỏ để mua sau
+Thanh toán đơn hàng: Người dùng chọn phương thức thanh toán và xác nhận
+Theo dõi đơn hàng: Người dùng xem trạng thái đơn hàng .
+
+
+3 yêu cầu phi chức năng:
+
+Bảo mật cao: Dữ liệu thanh toán và thông tin cá nhân được mã hóa, yêu cầu xác thực hai bước.
+Hiệu năng: Tìm kiếm và thanh toán hoàn thành trong 3 giây, kể cả giờ cao điểm.
+Khả năng sử dụng: Giao diện thân thiện, hoạt động mượt trên cả web và ứng dụng di động

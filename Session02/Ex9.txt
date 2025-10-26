@@ -1,0 +1,34 @@
+Đề cương SRS:
+
+Giới thiệu
++Mục đích: Xác định mục tiêu tài liệu, mô tả hệ thống và đối tượng sử dụng (khách hàng, nhân viên, quản lý).
++Phạm vi: Nêu chức năng chính (đặt món, thanh toán, quản lý đơn) và lợi ích tiện lợi
+
+
+Mô tả tổng quan
++Bối cảnh hệ thống: Mô tả môi trường hoạt động (quán ăn, ứng dụng di động, máy tính bảng)
++Đặc điểm người dùng: Liệt kê đối tượng (khách hàng, nhân viên phục vụ, bếp, quản lý)
+
+
+Yêu cầu chức năng
+Mô tả tính năng cụ thể: đặt món, xem thực đơn, thanh toán, theo dõi trạng thái đơn hàng
+
+
+Yêu cầu phi chức năng
+Nêu tiêu chí hiệu suất, bảo mật, khả năng mở rộng (ví dụ: xử lý 100 đơn/giờ, mã hóa thanh toán)
+
+
+Giao diện hệ thống
+Mô tả giao diện người dùng (UI) cho khách (app) và nhân viên (màn hình quản lý đơn)
+
+
+Yêu cầu tích hợp
+Liệt kê hệ thống bên ngoài cần kết nối (cổng thanh toán, phần mềm quản lý kho)
+
+
+Ràng buộc thiết kế
+Nêu giới hạn công nghệ (ngôn ngữ lập trình, cơ sở dữ liệu) và quy định pháp lý (thuế, bảo mật)
+
+
+Giả định và phụ thuộc
+Liệt kê giả định khách có internet và phụ thuộc nhà cung cấp dịch vụ thanh toán

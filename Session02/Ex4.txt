@@ -1,0 +1,15 @@
+Cấu trúc tài liệu SRS:
+
+Giới thiệu:Mục đích: Xác định mục tiêu của tài liệu, mô tả hệ thống và đối tượng sử dụng ,nêu rõ chức năng chính của hệ thống và lợi ích cho người dùng
+
+Mô tả tổng quát:Bối cảnh hệ thống: Mô tả môi trường hoạt động, bao gồm người dùng, phần cứng, phần mềm liên quaniệt kê đặc điểm của người dùng
+
+Yêu cầu chức năng:Mô tả các tính năng cụ thể, như đăng ký khóa học, xem bài giảng, nộp bài tập, chấm điểm.
+
+Yêu cầu phi chức năng:Nêu các yêu cầu về hiệu suất, bảo mật, khả năng mở rộng, ví dụ: hệ thống hoạt động 24/7, bảo mật dữ liệu người dùng
+
+Giao diện hệ thống:Mô tả giao diện người dùng và cách tương tác, như giao diện web hoặc ứng dụng di động.
+
+Yêu cầu tích hợp:Liệt kê các hệ thống bên ngoài cần kết nối, như cổng thanh toán, công cụ họp trực tuyến
+
+Phụ lục:Cung cấp thông tin bổ sung, như thuật ngữ, biểu đồ, hoặc tài liệu tham khảo

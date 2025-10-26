@@ -1,0 +1,14 @@
+
+Phần mềm: Mobile Banking App
+
+3 chức năng:
+
++Đăng nhập/xác thực bằng mật khẩu, vân tay hoặc Face ID.
++Chuyển khoản nội bộ và liên ngân hàng.
++Xem số dư, lịch sử giao dịch và thông tin thẻ.
+
+3 phi chức năng:
+
++Bảo mật cao: mã hóa dữ liệu, xác thực đa lớp.
++Hiệu năng: xử lý giao dịch và tải trang dưới 3 giây.
++Tính sẵn sàng: hoạt động 24/7, downtime tối đa 0,1%.

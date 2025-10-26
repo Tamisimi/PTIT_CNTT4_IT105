@@ -1,0 +1,28 @@
+Hệ thống quản lý học trực tuyến (LMS)
+Phỏng vấn:
+
+Ưu điểm: Lấy thông tin chi tiết, sâu sắc từ người dùng. Có thể làm rõ thắc mắc ngay.
+Hạn chế: Tốn thời gian, phụ thuộc vào kỹ năng phỏng vấn. Người trả lời có thể đưa thông tin thiên lệch.
+Khi nào nên dùng: Cần hiểu rõ nhu cầu cụ thể từ một nhóm nhỏ, đặc biệt khi bắt đầu dự án
+Tình huống ví dụ: Phỏng vấn giảng viên để biết họ muốn LMS có tính năng quản lý bài tập hay chấm điểm tự động
+
+Quan sát:
+
+Ưu điểm: Hiểu rõ cách người dùng làm việc thực tế. Phát hiện vấn đề mà người dùng không nói ra
+Hạn chế: Tốn thời gian, không hiệu quả nếu quy trình phức tạp. Có thể làm người dùng không thoải mái.
+Khi nào nên dùng: Khi cần nắm quy trình thực tế hoặc người dùng khó diễn đạt nhu cầu.
+Tình huống ví dụ: Quan sát sinh viên sử dụng LMS để xem họ gặp khó khăn gì khi tìm bài giảng
+
+Khảo sát:
+
+Ưu điểm: Thu thập ý kiến từ nhiều người nhanh chóng. Dễ phân tích số liệu định lượng.
+Hạn chế: Thông tin có thể chung chung, ít chi tiết. Tỷ lệ trả lời thấp nếu khảo sát dài.
+Khi nào nên dùng: Cần ý kiến từ số đông, như sinh viên hoặc phụ huynh, để đánh giá nhu cầu chung.
+Tình huống ví dụ: Gửi khảo sát cho sinh viên để hỏi họ muốn LMS có thêm tính năng như thông báo nhắc nhở
+
+Phân tích tài liệu:
+
+Ưu điểm: Cung cấp thông tin chính xác từ tài liệu sẵn có. Không phụ thuộc vào người dùng.
+Hạn chế: Tài liệu có thể lỗi thời hoặc thiếu thông tin về nhu cầu hiện tại
+Khi nào nên dùng: Khi có tài liệu quy trình, hướng dẫn, hoặc báo cáo liên quan để tham khảo.
+Tình huống ví dụ: Xem tài liệu quy trình đào tạo của trường để xác định cách LMS cần hỗ trợ quản lý khóa học.
